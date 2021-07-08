@@ -19,11 +19,18 @@ function generateMarkdown(data) {
 ${data.description}
 
 # Table of Contents
+*[Title](#Title)
+*[Installation](#Installation)
+*[Usage Information](#Usage)
+*[Contributors](#Contributors)
+*[Testers](#Testers)
+*[License](#License)
+*[GitHub](#GitHub)
 
 # Installation
 ${data.installInstruction}
 
-#Usage Information
+#Usage
 ${data.usageInformation}
 
 #Contributors
@@ -33,7 +40,12 @@ ${data.contributors}
 ${data.tests}
 
 #License
-${data.licenses}
+[![License](https://img.shields.io/badge/License-${data.licenses}-blue.svg)]
+This is application is covered under the ${data.licenses} license.
+
+#Questions?
+* https://github.com/${data.gitHubUserName}
+* Email me with additional questions at: ${data.email}
 
 `;
 }

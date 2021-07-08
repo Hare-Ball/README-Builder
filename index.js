@@ -19,6 +19,12 @@ const questions = [
     },
     {
         type: "input",
+        name: "email",
+        message: "What is your email address?"
+    
+    },
+    {
+        type: "input",
         name: "description",
         message: "Enter a description for your project."
     
@@ -54,6 +60,7 @@ const questions = [
         choices: ["MIT", "Apache", "None"]
     
     },
+    
 ];
 
 // TODO: Create a function to write README file
