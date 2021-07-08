@@ -1,8 +1,6 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
-function renderLicenseBadge(license) {
-  
-}
+function renderLicenseBadge(license) {}
 
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
@@ -30,20 +28,20 @@ ${data.description}
 # Installation
 ${data.installInstruction}
 
-#Usage
+# Usage
 ${data.usageInformation}
 
-#Contributors
+# Contributors
 ${data.contributors}
 
-#Testers
+# Testers
 ${data.tests}
 
-#License
+# License
 [![License](https://img.shields.io/badge/License-${data.licenses}-blue.svg)]
 This is application is covered under the ${data.licenses} license.
 
-#Questions?
+# Questions?
 * https://github.com/${data.gitHubUserName}
 * Email me with additional questions at: ${data.email}
 
