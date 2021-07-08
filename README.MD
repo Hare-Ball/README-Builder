@@ -1,6 +1,6 @@
 # README Generator
 # Description
-This is a README Generator to help a developer create, consistent, high-quality README files for projects that are uploaded to GitHub or other platforms.
+This is a README Generator to help a developer create consistent, high-quality README files for projects that are uploaded to GitHub or other platforms.
 
 # Table of Contents
 1. [Title](#Title)
@@ -12,7 +12,7 @@ This is a README Generator to help a developer create, consistent, high-quality 
 7. [GitHub](#GitHub)
 
 # Installation
-Install node.js and inquirer npm inorder to use this application.
+Install Node.js and Inquirer npm in order to use this application.
 
 # Usage
 After completing the installation, type node index.js into the command line of your terminal. Then answer the questions and select a license to use.
