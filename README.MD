@@ -15,7 +15,7 @@ This is a README Generator to help a developer create consistent, high-quality R
 Install Node.js and Inquirer npm in order to use this application.
 
 # Usage
-After completing the installation, type node index.js into the command line of your terminal. Then answer the questions and select a license to use.
+After completing the installation, type node index.js into the command line of your terminal. Then answer the questions and select a license to use. Here is a video that will show you how to use the application: https://drive.google.com/file/d/1M5jNEwmZiQeV-QtiwR1JiPM_grZAixDO/view
 
 # Contributors
 Robby Hare
