@@ -45,7 +45,7 @@ ${data.contributors}
 ${data.tests}
 
 # License
-[![License](https://img.shields.io/badge/License-${data.licenses}-green.svg)]
+![License](https://img.shields.io/badge/License-${data.licenses}-green.svg)
 This is application is covered under the ${data.licenses} license.
 
 # Questions?

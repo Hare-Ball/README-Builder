@@ -1,6 +1,6 @@
 # README Generator
 # Description
-This is a README generator to help you create quality README files for GitHub projects.
+This is a README Generator to help a developer create, consistent, high-quality README files for projects that are uploaded to GitHub or other platforms.
 
 # Table of Contents
 1. [Title](#Title)
@@ -12,10 +12,10 @@ This is a README generator to help you create quality README files for GitHub pr
 7. [GitHub](#GitHub)
 
 # Installation
-This application requires Node.js and Inquirer to be installed.
+Install node.js and inquirer npm inorder to use this application.
 
 # Usage
-Initialize a new README using the command line in your terminal. Answer the questions that you are asked.
+After completing the installation, type node index.js into the command line of your terminal. Then answer the questions and select a license to use.
 
 # Contributors
 Robby Hare
@@ -24,10 +24,10 @@ Robby Hare
 Robby Hare
 
 # License
-[![License](https://img.shields.io/badge/License-MIT-green.svg)]
+![License](https://img.shields.io/badge/License-MIT-green.svg)
 This is application is covered under the MIT license.
 
 # Questions?
 * https://github.com/Hare-Ball
-* Email me with additional questions at: Email@email.com
+* Email me with additional questions at: email@email.com
 
