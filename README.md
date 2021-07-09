@@ -20,7 +20,7 @@ After completing the installation, type node index.js into the command line of y
 Here is a video showing you how to use the application: https://drive.google.com/file/d/1VHoOaq48qweZR8OrwmaBbFYhIl7GXisW/view
 
 # Contributors
-Robby Hare
+Robby Hare, SMU Web Dev Bootcamp Tutors and TAs
 
 # Testers
 Robby Hare
